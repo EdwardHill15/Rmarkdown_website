@@ -6,7 +6,7 @@ output:
   html_document:
     df_print: paged
 email_address: totalegezondheidbv@gmail.com
-github_repo: https://github.com/EdwardHill15/Rmarkdown_website
+github_repo: https://github.com/EdwardHill15/rmarkdown_website_template
 bibliography: ref.bib
 biblio-style: apalike
 link-citations: yes
