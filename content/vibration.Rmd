@@ -25,6 +25,26 @@ link-citations: true
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{css echo=FALSE}
+.author, .title, .date {
+  display: none;
+}
+
+.main-container {
+  max-width: 100%;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: Helvetica;
+  font-size: 20pt;
+}
+/* Headers */
+h1{
+  font-size: 50pt;
+}
+```
 # **Introduction**
 
 This ontology of mind and consciousness postulates a **reduction base** by which it can explain how an **image of the external world** is created and experienced. The **panvibrational reduction base** explains and formulates which **psycho-physical laws** are involved (f.e.; Gibson's invariance laws, optical flow fields, etc.) that explain the generation and perception of a **holographic image** of external events and happenings in, by and of the human mind. 

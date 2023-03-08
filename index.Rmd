@@ -1,9 +1,42 @@
 ---
 title: "Edward Hillenaar's scientific articles"
 output: html_document
+email_address: totalegezondheidbv@gmail.com
+github_repo: https://github.com/EdwardHill15/Rmarkdown_website
 ---
+<center>
+<br>
+```{css echo=FALSE}
+.author, .title, .date {
+  display: none;
+}
 
-Hi, I'm Edward.
-I'M A WRITER, DATA SCIENTIST AND PHILOSOPHER
-      
+.main-container {
+  max-width: 100%;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: Helvetica;
+  font-size: 20pt;
+}
+/* Headers */
+h1{
+  font-size: 50pt;
+}
+```
+<h1>
+[Edward F. Hillenaar
+<br>
+<br>psychologist and data scientist](mailto: `r rmarkdown::metadata$email_address`)
+<br>
+<br>
+![Ed Cambodia](https://github.com/EdwardHill15/Rmarkdown_website/blob/main/Ed.jpg?raw=true)
+<br>
+<br></center></h1>
+Last updated on `r Sys.Date()` in [Github repository](`r rmarkdown::metadata$github_repo`)
+<br>
+<br>
+
 Welcome to my Rmarkdown website for blogposts, articles and other writings I’ve been working on. The major theme of my work and scientific interest is about the metaphysical study on the nature and origin of human consciousness in relation to total health. I hope you’ll find some interesting reading on my website that gives inspiration for your own scientific and spiritual journey. 
