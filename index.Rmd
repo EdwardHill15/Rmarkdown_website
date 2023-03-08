@@ -1,0 +1,9 @@
+---
+title: "Edward Hillenaar's scientific articles"
+output: html_document
+---
+
+Hi, I'm Edward.
+I'M A WRITER, DATA SCIENTIST AND PHILOSOPHER
+      
+Welcome to my Rmarkdown website for blogposts, articles and other writings I’ve been working on. The major theme of my work and scientific interest is about the metaphysical study on the nature and origin of human consciousness in relation to total health. I hope you’ll find some interesting reading on my website that gives inspiration for your own scientific and spiritual journey. 
