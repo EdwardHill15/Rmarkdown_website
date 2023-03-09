@@ -18,25 +18,37 @@ body {
   background-color: black;
   color: white;
   font-family: Helvetica;
-  font-size: 12pt;
+  font-size: 14pt;
 }
 /* Headers */
 h1{
-  font-size: 50pt;
+  font-size: 40pt;
 }
 ```
 <br>
 <center>
-[Mind in a Holographic Field](content/holographic.html)
+# [Mind in a Holographic Field](content/holographic.html)
 <br>
-![](https://github.com/EdwardHill15/edwardhill-apero/blob/main/content/blog/202206_panvibrational/featured.jpg?raw=true)
+```{r echo=FALSE, out.width="40%"}
+knitr::include_graphics("panvibrational.jpg")
+```
 <br>
-[Review of the Melatonin Delirium Study](content/melatonin.html)
 <br>
-![](https://github.com/EdwardHill15/Melatonin_Delirium_trial/blob/main/plot_melatonin_delirium.png?raw=true)
 <br>
-[Vibrational Consciousness](content/vibration.html)
+
+# [Review Melatonin Delirium Study](content/melatonin.html)
 <br>
-![](https://github.com/EdwardHill15/edwardhill-apero/blob/main/content/blog/02072022_consiousness_research/featured.png?raw=true)
+```{r echo=FALSE, out.width="40%"}
+knitr::include_graphics("melatonin.png")
+```
+<br>
+<br>
+<br>
+
+# [Vibrational Consciousness](content/vibration.html)
+<br>
+```{r echo=FALSE, out.width="40%"}
+knitr::include_graphics("vibration.png")
+```
 <br>
 </center>

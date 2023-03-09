@@ -18,7 +18,7 @@ link-citations: yes
 }
 
 .main-container {
-  max-width: 100%;
+  max-width: 80%;
 }
 
 body {

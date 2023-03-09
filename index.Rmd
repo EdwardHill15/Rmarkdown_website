@@ -84,5 +84,5 @@ knitr::include_graphics("logo_th.jpg", error = FALSE)
 ::::
 <br>
 <center>
-Site developed by [Edward F. Hillenaar](mailto: `r rmarkdown::metadata$email_address`) in [Rmarkdown and Github pages](`r rmarkdown::metadata$github_repo`)<br>Last updated on `r Sys.Date()`
+Site developed by [Edward F. Hillenaar](mailto: `r rmarkdown::metadata$email_address`) in [Rmarkdown and Github](`r rmarkdown::metadata$github_repo`) and deployed on Netlify.<br>Last updated on `r Sys.Date()`
 </center>

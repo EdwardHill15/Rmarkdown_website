@@ -26,12 +26,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{css echo=FALSE}
-.author, .title, .date {
+.author, .title, .date, .subtitle {
   display: none;
 }
 
 .main-container {
-  max-width: 100%;
+  max-width: 65%;
 }
 
 body {
@@ -44,40 +44,86 @@ body {
 h1{
   font-size: 50pt;
 }
+h2{
+  font-size: 30pt;
+}
 ```
-# **Introduction**
+<br>
+<br>
+<center>
+<h1>Mind in a holographic field</h1>
+<br>
+<br>
+<h2>_A temporal metaphysical vision on the origin and nature of human consciousness_</h2>
+<br>
+<br>
+by
+<br>
+<br>
+Edward F. Hillenaar${^\dagger}$
+<br>
+<br></center>
 
-This ontology of mind and consciousness postulates a **reduction base** by which it can explain how an **image of the external world** is created and experienced. The **panvibrational reduction base** explains and formulates which **psycho-physical laws** are involved (f.e.; Gibson's invariance laws, optical flow fields, etc.) that explain the generation and perception of a **holographic image** of external events and happenings in, by and of the human mind. 
+${\dagger}$ To whom correspondence should be addressed:  
+[totalegezondheidbv@gmail.com](mailto: `r rmarkdown::metadata$email_address`) 
+<br>
+<br>
+Link to [Github Repository](`r rmarkdown::metadata$github_repo`)  
+Last updated on `r Sys.Date()`
+<br>
+<br>
 
+## **Introduction**
+
+This ontology of mind and consciousness postulates a **reduction base** by which it can explain how an **image of the external world** is created and experienced. The **panvibrational reduction base** explains and formulates which **psycho-physical laws** are involved (f.e.; Gibson's invariance laws, optical flow fields, etc.) that explain the generation and perception of a **holographic image** of external events and happenings in, by and of the human mind.
+<br>
+<br>
 In this ontology of mind and consciousness, the reduction base is called "**Panvibration**" and the underlying crucial psycho-physical laws were first formulated by the late psychologist James Gibson and his work on the nature and psycho-physical mechanisms of **visual perception** [@Gibson1950]. The Philosophy of Mind of Henri Bergson [@Bergson1911], [@Bergson1910a], [@Bergson1922] also plays a fundamental role in this ontological theory with the **ultimate metaphysical goal** of solving the "**Hard Problem of Consciousness**" [@Chalmers1995]. 
- 
- 
-Other references:  [@Chalmers1995a], [@RobertLawrenceKuhn2020]
+<br>
+<br>
 
-# **Data**
-
+## **Graphs**
 ![Correlation Matrix of behaviour factors](https://raw.githubusercontent.com/EdwardHill15/Data/main/graphs/cor_matrix_Beh_cons.png)
-
+<br>
+<br>
+<br>
 ![Behaviour Factors in relation to Consciousness Levels](https://raw.githubusercontent.com/EdwardHill15/Data/main/graphs/plot_behaviour_consciousness.png)
-
-
-
-
+<br>
+<br>
+<br>
 ![bar graph consciousness and nvm factors in total group](https://raw.githubusercontent.com/EdwardHill15/Data/main/Prima%20Experientia/bar2_t.png)
-
+<br>
+<br>
+<br>
 ![bargraph of consciousness and nvm factors in women](https://raw.githubusercontent.com/EdwardHill15/Data/main/Prima%20Experientia/bar1_f.png)
-
+<br>
+<br>
+<br>
 ![bargraph of consciousness and nvm factors in men](https://raw.githubusercontent.com/EdwardHill15/Data/main/Prima%20Experientia/bar1_m.png)
-
+<br>
+<br>
+<br>
 ![scatterplot consciousness in relation to negativism and somatization in total group](https://raw.githubusercontent.com/EdwardHill15/Data/main/Prima%20Experientia/Scatter_t2_natural.png)
-
+<br>
+<br>
+<br>
 ![scatterplot male - female differences in consciousness in total nvm group](https://raw.githubusercontent.com/EdwardHill15/Data/main/Prima%20Experientia/Scatter_t2_mf_natural.png)
-
+<br>
+<br>
+<br>
 ![Animation consiousness and somatization in total nvm group](https://raw.githubusercontent.com/EdwardHill15/Data/main/Prima%20Experientia/consciousness_som.gif)
-
+<br>
+<br>
+<br>
 ![jitterplot of consciousness and somatization in total group](https://raw.githubusercontent.com/EdwardHill15/Data/main/Prima%20Experientia/jitter_som2.png)
+<br>
+<br>
+<br>
 
-# **Conclusion**
+## **Conclusion**
+<br>
+<br>
+<br>
 
-# **References**
+## **References**
 

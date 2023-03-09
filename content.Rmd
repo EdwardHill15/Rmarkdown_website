@@ -5,38 +5,51 @@ output:
     df_print: paged
 ---
 
+
 ```{css echo=FALSE}
 .author, .title, .date {
   display: none;
 }
 
-.main-container {
-  max-width: 100%;
+<!-- .main-container { -->
+<!--   max-width: 100%; -->
 }
 
 body {
   background-color: black;
   color: white;
   font-family: Helvetica;
-  font-size: 12pt;
+  font-size: 14pt;
 }
 /* Headers */
 h1{
-  font-size: 50pt;
+  font-size: 40pt;
 }
 ```
 <br>
 <center>
-[Mind in a Holographic Field](content/holographic.html)
+# [Mind in a Holographic Field](content/holographic.html)
 <br>
-![]()
+```{r echo=FALSE, out.width="40%"}
+knitr::include_graphics("panvibrational.jpg")
+```
 <br>
-[Review of the Melatonin Delirium Study](content/melatonin.html)
 <br>
-![]()
 <br>
-[Vibrational Consciousness](content/vibration.html)
+
+# [Review Melatonin Delirium Study](content/melatonin.html)
 <br>
-![]()
+```{r echo=FALSE, out.width="40%"}
+knitr::include_graphics("melatonin.png")
+```
+<br>
+<br>
+<br>
+
+# [Vibrational Consciousness](content/vibration.html)
+<br>
+```{r echo=FALSE, out.width="40%"}
+knitr::include_graphics("vibration.png")
+```
 <br>
 </center>
