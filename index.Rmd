@@ -27,16 +27,64 @@ h1{
 }
 ```
 <h1>
-[Edward F. Hillenaar
-<br>
-<br>psychologist and data scientist](mailto: `r rmarkdown::metadata$email_address`)
-<br>
-<br>
-![Ed Cambodia](https://github.com/EdwardHill15/Rmarkdown_website/blob/main/Ed.jpg?raw=true)
-<br>
-<br></center></h1>
-Last updated on `r Sys.Date()` in [Github repository](`r rmarkdown::metadata$github_repo`)
-<br>
-<br>
+<span style="color:#0047AB">Edward F. Hillenaar</span>
+<br></h1>
+![](https://github.com/EdwardHill15/Rmarkdown_website/blob/main/Ed.jpg?raw=true)</center>
 
-Welcome to my Rmarkdown website for blogposts, articles and other writings I’ve been working on. The major theme of my work and scientific interest is about the metaphysical study on the nature and origin of human consciousness in relation to total health. I hope you’ll find some interesting reading on my website that gives inspiration for your own scientific and spiritual journey. 
+:::: {style="display: flex;"}
+::: {.column width="1%"}
+
+:::
+
+::: {.column width="30%"}
+
+<!-- <h2><span style="color:green">Body Movement Reprocessing<br>and Stress</span></h2> -->
+
+<!-- ```{r message=FALSE, echo=FALSE} -->
+<!-- knitr::include_graphics("graph1.jpg", error = FALSE) -->
+<!-- ``` -->
+\
+
+<span style="color:#0047AB">Introduction</span><br>
+Welcome to my Rmarkdown website for blogposts, articles and other writings I’ve been working on. The major theme of my work and scientific interest is about the metaphysical study on the nature and origin of human consciousness in relation to total health. I hope you’ll find some interesting reading on my website that gives inspiration for your own scientific and spiritual journey.
+
+:::
+
+::: {.column width="4%"}
+
+<!-- ... and this is the middle column (separate space) -->
+
+:::
+
+::: {.column width="30%"}
+\
+<span style="color:#0047AB">Biographics</span><br>
+I am an psychologist, philosopher, data scientist and CEO of Total Health, a practice for therapy, coaching and guidance to wholesome physical and psychological health.
+<br>
+I am also a serious active endurance athlete and I've participated several times in ultra-marathons in Asia ('The Ancient Khmer Path' in Cambodia in 2012 and the 'Ultra India Race' in 2014).<br>
+
+:::
+
+::: {.column width="4%"}
+
+:::
+
+::: {.column width="30%"}
+\
+<span style="color:#0047AB">Organization:</span>
+
+```{r message=FALSE, echo=FALSE}
+knitr::include_graphics("logo_th.jpg", error = FALSE)
+```
+
+:::
+
+::: {.column width="1%"}
+
+:::
+
+::::
+<br>
+<center>
+Site developed by [Edward F. Hillenaar](mailto: `r rmarkdown::metadata$email_address`) in [Rmarkdown and Github pages](`r rmarkdown::metadata$github_repo`)<br>Last updated on `r Sys.Date()`
+</center>

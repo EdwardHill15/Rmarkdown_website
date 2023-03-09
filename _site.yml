@@ -1,8 +1,12 @@
 navbar:
-  title: Rmarkdown website
+  title: Total Health
   left:
-  - text: Articles
-    href: content.html
+  - text: "Home"
+    href: index.html
+  - text: "Articles"
+    href: article.html
+  - text: "Blogs"
+    href: blogs.html 
 output:
   html_document:
     theme: flatly

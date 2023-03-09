@@ -25,7 +25,7 @@ body {
   background-color: black;
   color: white;
   font-family: Helvetica;
-  font-size: 18pt;
+  font-size: 20pt;
 }
 /* Headers */
 h1{
@@ -57,10 +57,11 @@ Last updated on `r Sys.Date()`
 
 # **Introduction**
 
-This ontology of mind and consciousness postulates a **reduction base** by which it can explain how an **image of the external world** is created and experienced. The **panvibrational reduction base** explains and formulates which **psycho-physical laws** are involved (f.e.; Gibson's invariance laws, optical flow fields, etc.) that explain the generation and perception of a **holographic image** of external events and happenings in, by and of the human mind. 
-
-In this ontology of mind and consciousness, the reduction base is called "**Panvibration**" and the underlying crucial psycho-physical laws were first formulated by the late psychologist James Gibson and his work on the nature and psycho-physical mechanisms of **visual perception** [@Gibson1950]. The Philosophy of Mind of Henri Bergson [@Bergson1911], [@Bergson1910a], [@Bergson1922] also plays a fundamental role in this ontological theory with the **ultimate metaphysical goal** of solving the "**Hard Problem of Consciousness**" [@Chalmers1995]. 
- 
+This particular ontology of mind and consciousness posits a reduction base as its explanatory framework for the creation and experience of external world images. The **reduction base**, termed "Panvibration," elucidates the psycho-physical laws, including Gibson's invariance laws and optical flow fields, that are involved in generating and perceiving holographic images of external events in the human mind.
+<br>
+<br>
+The term **Panvibration** refers to the reduction base in this ontology of mind and consciousness. The late psychologist James Gibson's seminal work on the psycho-physical mechanisms of visual perception [@Gibson1950] informs the fundamental psycho-physical laws underlying this ontology. Additionally, the Philosophy of Mind by Henri Bergson [@Bergson1911], [@Bergson1910a], [@Bergson1922] plays a crucial role in this ontological theory, with the ultimate aim of resolving the **Hard Problem of Consciousness** [@Chalmers1995].
+<br>
 Other references:  [@Chalmers1995a], [@RobertLawrenceKuhn2020]
 <br>
 <br>
