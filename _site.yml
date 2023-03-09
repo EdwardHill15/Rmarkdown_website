@@ -4,7 +4,7 @@ navbar:
   - text: "Home"
     href: index.html
   - text: "Articles"
-    href: article.html
+    href: content.html
   - text: "Blogs"
     href: blogs.html 
 output:
