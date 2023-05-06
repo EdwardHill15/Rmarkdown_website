@@ -51,10 +51,10 @@ h2{
 <br>
 <br>
 <center>
-<h1>Fit and Healthy</h1>
+<h1>Covid attitude</h1>
 <br>
 <br>
-<h2>_A short questionnaire to measure fitness and health_</h2>
+<h2>_A short questionnaire to measure covid attitude_</h2>
 <br>
 <br>
 by
@@ -75,5 +75,9 @@ Last updated on `r Sys.Date()`
 
 ## **Questionnaire**
 
+Via deze link ga je naar de vragenlijst: 
+
 https://forms.gle/k46iSMrpaAqgBsAM6
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdDTYaaI5jXeB82EtdTnM2873BEuF98-FRKTIo5SvtsDS0GDw/viewform?embedded=true" width="640" height="1916" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
 
