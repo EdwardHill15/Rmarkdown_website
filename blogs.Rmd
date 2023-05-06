@@ -54,10 +54,10 @@ knitr::include_graphics("vibration.png")
 <br>
 <br>
 
-# [Think yourself](content/fitheid.html)
+# [Think yourself](content/covid.html)
 <br>
 ```{r echo=FALSE, out.width="40%"}
-knitr::include_graphics("fitheid.JPG")
+knitr::include_graphics("covid.jpg")
 ```
 <br>
 </center>
