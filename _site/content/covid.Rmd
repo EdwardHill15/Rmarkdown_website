@@ -1,6 +1,6 @@
 ---
-title: "Fit and healthy"
-subtitle: "A short questionnaire to measure fitness and health"
+title: "Think yourself"
+subtitle: "A short questionnaire about Covid attitude"
 author: "Edward F Hillenaar, MSc. "
 date: "2023-05-06"
 links:
@@ -75,6 +75,5 @@ Last updated on `r Sys.Date()`
 
 ## **Questionnaire**
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfzOnk_-WBfAjhprmZDH4s2BXqYwR09U6O42qCMjvE7ZIblyg/viewform?embedded=true" width="640" height="1066" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
-<br>
+https://forms.gle/k46iSMrpaAqgBsAM6
 
