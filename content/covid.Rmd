@@ -1,0 +1,79 @@
+---
+title: "Think yourself"
+subtitle: "A short questionnaire about Covid attitude"
+author: "Edward F Hillenaar, MSc. "
+date: "2023-05-06"
+links:
+- icon: github
+  icon_pack: fab
+  name: github-data
+  url: https://github.com/EdwardHill15/Data.git/
+- icon: youtube
+  icon_pack: fab
+  name: Video
+  url: https://www.youtube.com/watch?v=NHMip21Hkp0&t=26s
+- icon: ""
+  icon_pack: fab
+  name: slides
+  url: https://edwardhill-xaringan-decks.netlify.app/robbins71#1
+bibliography: ["ref.bib"]
+biblio-style: "apalike"
+link-citations: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{css echo=FALSE}
+.author, .title, .date, .subtitle {
+  display: none;
+}
+
+.main-container {
+  max-width: 65%;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: Helvetica;
+  font-size: 20pt;
+}
+/* Headers */
+h1{
+  font-size: 50pt;
+}
+h2{
+  font-size: 30pt;
+}
+```
+<br>
+<br>
+<center>
+<h1>Fit and Healthy</h1>
+<br>
+<br>
+<h2>_A short questionnaire to measure fitness and health_</h2>
+<br>
+<br>
+by
+<br>
+<br>
+Edward F. Hillenaar${^\dagger}$
+<br>
+<br></center>
+
+${\dagger}$ To whom correspondence should be addressed:  
+[totalegezondheidbv@gmail.com](mailto: `r rmarkdown::metadata$email_address`) 
+<br>
+<br>
+Link to [Github Repository](`r rmarkdown::metadata$github_repo`)  
+Last updated on `r Sys.Date()`
+<br>
+<br>
+
+## **Questionnaire**
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdDTYaaI5jXeB82EtdTnM2873BEuF98-FRKTIo5SvtsDS0GDw/viewform?embedded=true" width="640" height="1916" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
+

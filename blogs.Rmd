@@ -51,4 +51,13 @@ knitr::include_graphics("melatonin.png")
 knitr::include_graphics("vibration.png")
 ```
 <br>
+<br>
+<br>
+
+# [Think yourself](content/fitheid.html)
+<br>
+```{r echo=FALSE, out.width="40%"}
+knitr::include_graphics("fitheid.JPG")
+```
+<br>
 </center>
